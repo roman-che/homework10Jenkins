@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 import java.util.Locale;
+
 @Tag("mainTest")
 public class StudentFormTestWithPageObjectsTestsAndFaker extends TestBase {
 
@@ -37,7 +38,7 @@ public class StudentFormTestWithPageObjectsTestsAndFaker extends TestBase {
                 .typeEmail(email)
                 .setGender(gender)
                 .typePhone(phone)
-                .typeBirthDay("23","April","1977")
+                .typeBirthDay("23", "April", "1977")
                 .setSubject(subject)
                 .setHobby(hobby)
                 .uploadPicture("src/test/resources/", pictureFile)

@@ -61,7 +61,8 @@ public class RegistrationsPage {
         phoneInput.setValue(value);
         return this;
     }
-    public RegistrationsPage typeBirthDay(String day,String month, String year) {
+
+    public RegistrationsPage typeBirthDay(String day, String month, String year) {
         this.calendar.setDate(day, month, year);
         return this;
     }
