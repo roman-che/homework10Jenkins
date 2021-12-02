@@ -1,0 +1,62 @@
+{
+  "uid" : "7e8cf7c2a8abd530",
+  "name" : "readCredentialsTest()",
+  "fullName" : "ru.inventorium.qa.tests.properties.OwnerTests.readCredentialsTest",
+  "historyId" : "e5fa11cd8dae55f7dd01fcce381d6c2",
+  "time" : {
+    "start" : 1638438936948,
+    "stop" : 1638438937032,
+    "duration" : 84
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:ru.inventorium.qa.tests.properties.OwnerTests]/[method:readCredentialsTest()]"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-I805IKU"
+  }, {
+    "name" : "thread",
+    "value" : "17044@DESKTOP-I805IKU.Test worker(14)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.inventorium.qa.tests.properties.OwnerTests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.inventorium.qa.tests.properties.OwnerTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "readCredentialsTest"
+  }, {
+    "name" : "suite",
+    "value" : "ru.inventorium.qa.tests.properties.OwnerTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e8cf7c2a8abd530.json",
+  "parameterValues" : [ ]
+}

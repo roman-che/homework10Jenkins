@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "f760776b9b4a0811a0d49407f62a0005",
+    "name" : "ru.inventorium.qa.tests.properties.OwnerTests",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "3dd17ad9f80d35eae92a29a4c6c32519",
+    "name" : "ru.inventorium.qa.tests.StudentFormTestWithPageObjectsTestsAndFaker",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

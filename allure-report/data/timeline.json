@@ -1,0 +1,93 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-I805IKU",
+    "children" : [ {
+      "name" : "17136@DESKTOP-I805IKU.Test worker(14)",
+      "children" : [ {
+        "name" : "readCredentialsTest()",
+        "uid" : "cee1a45dcd50b268",
+        "parentUid" : "bd33ecef484c1d54656491817ebaea72",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638438778556,
+          "stop" : 1638438778649,
+          "duration" : 93
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bd33ecef484c1d54656491817ebaea72"
+    }, {
+      "name" : "17044@DESKTOP-I805IKU.Test worker(14)",
+      "children" : [ {
+        "name" : "readCredentialsTest()",
+        "uid" : "7e8cf7c2a8abd530",
+        "parentUid" : "9dc799ab314f59ee49d7849b6e293cc3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638438936948,
+          "stop" : 1638438937032,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9dc799ab314f59ee49d7849b6e293cc3"
+    }, {
+      "name" : "12472@DESKTOP-I805IKU.Test worker(14)",
+      "children" : [ {
+        "name" : "readCredentialsTest()",
+        "uid" : "2ffe5024bad2bc5f",
+        "parentUid" : "b857c040a0fa77a64247644ab0075e41",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638438985024,
+          "stop" : 1638438985120,
+          "duration" : 96
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b857c040a0fa77a64247644ab0075e41"
+    }, {
+      "name" : "3572@DESKTOP-I805IKU.Test worker(14)",
+      "children" : [ {
+        "name" : "studentFormTest()",
+        "uid" : "a765cf752e6e1331",
+        "parentUid" : "be364929024f2b178ef3b6d14311c253",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638441548152,
+          "stop" : 1638441572363,
+          "duration" : 24211
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "be364929024f2b178ef3b6d14311c253"
+    } ],
+    "uid" : "6e4cd18b66948d1d546b20e98cfa1899"
+  } ]
+}

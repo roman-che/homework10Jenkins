@@ -1,0 +1,47 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "ru.inventorium.qa.tests.properties.OwnerTests",
+    "children" : [ {
+      "name" : "readCredentialsTest()",
+      "uid" : "2ffe5024bad2bc5f",
+      "parentUid" : "f760776b9b4a0811a0d49407f62a0005",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638438985024,
+        "stop" : 1638438985120,
+        "duration" : 96
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f760776b9b4a0811a0d49407f62a0005"
+  }, {
+    "name" : "ru.inventorium.qa.tests.StudentFormTestWithPageObjectsTestsAndFaker",
+    "children" : [ {
+      "name" : "studentFormTest()",
+      "uid" : "a765cf752e6e1331",
+      "parentUid" : "3dd17ad9f80d35eae92a29a4c6c32519",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638441548152,
+        "stop" : 1638441572363,
+        "duration" : 24211
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3dd17ad9f80d35eae92a29a4c6c32519"
+  } ]
+}

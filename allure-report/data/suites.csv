@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Dec 02 12:56:25 MSK 2021","Thu Dec 02 12:56:25 MSK 2021","96","","ru.inventorium.qa.tests.properties.OwnerTests","","ru.inventorium.qa.tests.properties.OwnerTests","readCredentialsTest","readCredentialsTest()",""
+"passed","Thu Dec 02 13:39:08 MSK 2021","Thu Dec 02 13:39:32 MSK 2021","24211","","ru.inventorium.qa.tests.StudentFormTestWithPageObjectsTestsAndFaker","","ru.inventorium.qa.tests.StudentFormTestWithPageObjectsTestsAndFaker","studentFormTest","studentFormTest()",""

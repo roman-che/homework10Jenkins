@@ -1,0 +1,51 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "ru.inventorium.qa.tests",
+    "children" : [ {
+      "name" : "properties.OwnerTests",
+      "children" : [ {
+        "name" : "readCredentialsTest",
+        "uid" : "2ffe5024bad2bc5f",
+        "parentUid" : "72e585b10271d246d8cc496e430b4865",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638438985024,
+          "stop" : 1638438985120,
+          "duration" : 96
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "properties.OwnerTests"
+    }, {
+      "name" : "StudentFormTestWithPageObjectsTestsAndFaker",
+      "children" : [ {
+        "name" : "studentFormTest",
+        "uid" : "a765cf752e6e1331",
+        "parentUid" : "31ea2c1da6541bf9377761ae0a6eed95",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638441548152,
+          "stop" : 1638441572363,
+          "duration" : 24211
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "31ea2c1da6541bf9377761ae0a6eed95"
+    } ],
+    "uid" : "ru.inventorium.qa.tests"
+  } ]
+}

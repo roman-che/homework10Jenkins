@@ -1,0 +1,21 @@
+[ {
+  "uid" : "a765cf752e6e1331",
+  "name" : "studentFormTest()",
+  "time" : {
+    "start" : 1638441548152,
+    "stop" : 1638441572363,
+    "duration" : 24211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ffe5024bad2bc5f",
+  "name" : "readCredentialsTest()",
+  "time" : {
+    "start" : 1638438985024,
+    "stop" : 1638438985120,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
