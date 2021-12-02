@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 import java.util.Locale;
-@Tag("Maintest")
+@Tag("mainTest")
 public class StudentFormTestWithPageObjectsTestsAndFaker extends TestBase {
 
     Faker faker = new Faker(new Locale("en"));
