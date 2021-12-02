@@ -3,10 +3,11 @@ package ru.inventorium.qa.tests;
 import com.github.javafaker.Faker;
 import com.github.javafaker.service.FakeValuesService;
 import com.github.javafaker.service.RandomService;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 import java.util.Locale;
-
+@Tag("Maintest")
 public class StudentFormTestWithPageObjectsTestsAndFaker extends TestBase {
 
     Faker faker = new Faker(new Locale("en"));

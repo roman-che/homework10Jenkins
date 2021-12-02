@@ -62,6 +62,12 @@ task properties_test(type: Test) {
     }
 }
 
+task main_test(type: Test) {
+    useJUnitPlatform(){
+        includeTags "mainTest"
+    }
+}
+
 task manyTags_test(type: Test) {
     useJUnitPlatform(){
         includeTags "properties"
