@@ -17,6 +17,7 @@ public class TestBase {
     RegistrationsPage registrationsPage = new RegistrationsPage();
     public static CredentialsConfig getCredentials =
             ConfigFactory.create(CredentialsConfig.class);
+
     @BeforeAll
     static void beforeAll() {
         String url = System.getProperty("url", null);
@@ -26,8 +27,7 @@ public class TestBase {
         SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
         Configuration.startMaximized = true;
         String remoteConfig = format("https://%s:%s@%s", login, password, url);
-        Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub/";
-        System.out.println(remoteConfig);
+        Configuration.remote = remoteConfig;
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("enableVNC", true);
         capabilities.setCapability("enableVideo", true);
