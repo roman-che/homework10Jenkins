@@ -1,8 +1,8 @@
 {
   "app": {
     "bot": {
-      "token": "5052010322:AAEqZsC1MvNq8f8KFB23ymsvmbzhuNS6fRM",
-      "chat": "-1001736161605",
+      "token": "-1",
+      "chat": "-1",
       "replyTo": ""
     },
     "base": {
